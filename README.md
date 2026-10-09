@@ -92,7 +92,7 @@ All instructional datasets are included in this repository so the workshop works
 
 ## Contact
 
-Associate Professor Dr. Jason Ng · Sunway University · jasonn@sunway.edu.my
+Jason Ng · Sunway University · jasonn@sunway.edu.my
 
 ## Citation
 
