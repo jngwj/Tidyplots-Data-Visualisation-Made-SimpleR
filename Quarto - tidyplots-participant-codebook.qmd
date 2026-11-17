@@ -1,0 +1,13 @@
+---
+title: "Tidyplots:Data Visualisation Made Simpler"
+format: html
+editor: visual
+---
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(tidyplots)
+
+tidyplots_options(width = NA, height = NA)
+```
